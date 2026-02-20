@@ -7,13 +7,9 @@ Este espaço reúne atividades práticas, estudos de caso e implementações que
 - Consolidar os conhecimentos adquiridos ao longo do curso.  
 - Demonstrar aplicações reais de GenAI e análise de dados.  
 - Servir como referência e portfólio para futuros projetos.  
-- Incentivar a colaboração e o aprendizado contínuo.
 
 ## 🚀 Tecnologias Utilizadas
 - Python  
-- Ferramentas de GenAI (transformers, modelos de linguagem, etc.)  
-
-## 🤝 Contribuições
-Este repositório é aberto para melhorias!  
----
+- Ferramentas de GenAI (modelos de linguagem, etc.)  
+- Banco de Dados Relacional
 
