@@ -1,3 +1,7 @@
+## 👩🏻‍💻Nesse case, foi utilizada Inteligência Artificial para realizar a criação dos dados utilizados em SQL. 
+
+
+
 ## ação
 
 create a script to create a table in MySql
